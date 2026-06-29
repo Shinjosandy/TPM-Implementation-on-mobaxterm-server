@@ -1,0 +1,14 @@
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\bin\Debug\net8.0\TpmSigner.exe
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\bin\Debug\net8.0\TpmSigner.deps.json
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\bin\Debug\net8.0\TpmSigner.runtimeconfig.json
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\bin\Debug\net8.0\TpmSigner.dll
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\bin\Debug\net8.0\TpmSigner.pdb
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.AssemblyInfoInputs.cache
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.AssemblyInfo.cs
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.csproj.CoreCompileInputs.cache
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.dll
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\refint\TpmSigner.dll
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.pdb
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\TpmSigner.genruntimeconfig.cache
+C:\Users\BARC\Desktop\TPM\TPM Implementation-on-mobaxterm-server\TpmSigner\obj\Debug\net8.0\ref\TpmSigner.dll
