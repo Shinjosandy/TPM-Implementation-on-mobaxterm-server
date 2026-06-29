@@ -1,14 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
 venv/
 
-__pycache__/
-*.pyc
+# Database
+instance/
+*.db
 
-instance/*.db
-
+# Keys
 keys/private.pem
 
-TpmSigner/bin/
-TpmSigner/obj/
+# Offline Packages
+offline_wheels/
 
+# IDE
 .vscode/
 .idea/
+
+# OS
+.DS_Store
+Thumbs.db
