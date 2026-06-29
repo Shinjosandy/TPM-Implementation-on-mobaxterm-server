@@ -1,0 +1,14 @@
+venv/
+
+__pycache__/
+*.pyc
+
+instance/*.db
+
+keys/private.pem
+
+TpmSigner/bin/
+TpmSigner/obj/
+
+.vscode/
+.idea/
